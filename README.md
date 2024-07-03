@@ -3,7 +3,7 @@
 ### Étape 1 : Se connecter au compte LinkedIn pro
 
 1. Ouvrez votre navigateur et allez sur [LinkedIn](https://www.linkedin.com/).
-2. Connectez-vous avec vos identifiants LinkedIn.
+2. Connectez-vous avec les identifiants LinkedIn.
 
 ### Étape 2 : Créer une liste de prospects
 
