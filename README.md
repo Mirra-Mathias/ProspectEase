@@ -1,6 +1,4 @@
-# Project Name
-
-## Instructions pour la gestion des prospects LinkedIn avec ce projet
+# ProspectEase
 
 ### Étape 1 : Se connecter au compte LinkedIn pro
 
