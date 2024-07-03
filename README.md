@@ -48,7 +48,7 @@
 ### Étape 7 : Démarrer le projet
 
 1. Ouvrez votre terminal.
-2. Naviguez vers le répertoire de votre projet.
+2. Naviguez vers le répertoire du projet.
 3. Exécutez la commande suivante pour démarrer le projet :
     ```sh
     npm start
